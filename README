@@ -6,3 +6,6 @@ blablblabla
 
 KNOWN ISSUES
 blablabla
+
+Modifications : 
+  la commande dune runtest test/hello retournait une erreur du fait de la version de dune installée , ce qui a jute ete modifié permettant l'execution du test
